@@ -1,0 +1,61 @@
+F:\C# Training\UPSShop\UPSShopUI\bin\Debug\UPSShopUI.exe.config
+F:\C# Training\UPSShop\UPSShopUI\bin\Debug\UPSShopUI.exe
+F:\C# Training\UPSShop\UPSShopUI\bin\Debug\UPSShopUI.pdb
+F:\C# Training\UPSShop\UPSShopUI\bin\Debug\UPSShopDLL.dll
+F:\C# Training\UPSShop\UPSShopUI\bin\Debug\UPSShopDLL.pdb
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.csprojAssemblyReference.cache
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.AddProduct.resources
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.Availability.resources
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.CustomerDetails.resources
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.Main.resources
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.NewSale.resources
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.Product.resources
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.Properties.Resources.resources
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.User.resources
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.csproj.GenerateResource.cache
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.csproj.CoreCompileInputs.cache
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.csproj.CopyComplete
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.exe
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.pdb
+F:\C# Training\UPSShop\UPSShopUI\obj\Debug\UPSShopUI.btBack.resources
+F:\C# Training\UPSShop\UPSShopUI\bin\Debug\Newtonsoft.Json.dll
+F:\C# Training\UPSShop\UPSShopUI\bin\Debug\Newtonsoft.Json.pdb
+F:\C# Training\UPSShop\UPSShopUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\welcome\Downloads\New folder\UPSShopUI\bin\Debug\UPSShopUI.exe.config
+C:\Users\welcome\Downloads\New folder\UPSShopUI\bin\Debug\UPSShopUI.exe
+C:\Users\welcome\Downloads\New folder\UPSShopUI\bin\Debug\UPSShopUI.pdb
+C:\Users\welcome\Downloads\New folder\UPSShopUI\bin\Debug\UPSShopDLL.dll
+C:\Users\welcome\Downloads\New folder\UPSShopUI\bin\Debug\UPSShopDLL.pdb
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.csprojAssemblyReference.cache
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.AddProduct.resources
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.Availability.resources
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.CustomerDetails.resources
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.Main.resources
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.NewSale.resources
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.Product.resources
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.Properties.Resources.resources
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.btBack.resources
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.csproj.GenerateResource.cache
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.csproj.CoreCompileInputs.cache
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.csproj.CopyComplete
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.exe
+C:\Users\welcome\Downloads\New folder\UPSShopUI\obj\Debug\UPSShopUI.pdb
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\bin\Debug\UPSShopUI.exe.config
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\bin\Debug\UPSShopUI.exe
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\bin\Debug\UPSShopUI.pdb
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\bin\Debug\UPSShopDLL.dll
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\bin\Debug\UPSShopDLL.pdb
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.csprojAssemblyReference.cache
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.AddProduct.resources
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.Availability.resources
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.CustomerDetails.resources
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.Main.resources
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.NewSale.resources
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.Product.resources
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.Properties.Resources.resources
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.btBack.resources
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.csproj.GenerateResource.cache
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.csproj.CoreCompileInputs.cache
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.csproj.CopyComplete
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.exe
+C:\Users\Aravindh\Documents\UPSSHOP-20200224T165203Z-001\UPSSHOP\UPSShopUI\obj\Debug\UPSShopUI.pdb

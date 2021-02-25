@@ -1,0 +1,6 @@
+F:\C# Training\UPSShop\UPSShopDLL\bin\Debug\UPSShopDLL.dll
+F:\C# Training\UPSShop\UPSShopDLL\bin\Debug\UPSShopDLL.pdb
+F:\C# Training\UPSShop\UPSShopDLL\obj\Debug\UPSShopDLL.csproj.CoreCompileInputs.cache
+F:\C# Training\UPSShop\UPSShopDLL\obj\Debug\UPSShopDLL.dll
+F:\C# Training\UPSShop\UPSShopDLL\obj\Debug\UPSShopDLL.pdb
+F:\C# Training\UPSShop\UPSShopDLL\obj\Debug\UPSShopDLL.csprojAssemblyReference.cache

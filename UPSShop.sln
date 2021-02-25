@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPSShopUI", "UPSShopUI\UPSShopUI.csproj", "{79FA182B-236B-4F94-B309-91427122FE41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPSShop", "UPSShopDLL\UPSShop.csproj", "{032D4830-991E-4819-AA35-62E6827CADE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79FA182B-236B-4F94-B309-91427122FE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FA182B-236B-4F94-B309-91427122FE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FA182B-236B-4F94-B309-91427122FE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FA182B-236B-4F94-B309-91427122FE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{032D4830-991E-4819-AA35-62E6827CADE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032D4830-991E-4819-AA35-62E6827CADE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032D4830-991E-4819-AA35-62E6827CADE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032D4830-991E-4819-AA35-62E6827CADE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1628556-84C7-4BE4-AF49-616A82930B89}
+	EndGlobalSection
+EndGlobal
